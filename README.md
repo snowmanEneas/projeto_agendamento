@@ -1,2 +1,2 @@
 # projeto_agendamento
-NodeJS + MongoDB 
+NodeJS + MongoDB + FullCalendar
